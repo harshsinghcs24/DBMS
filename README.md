@@ -1,2 +1,3 @@
 # DBMS
-SQL schema for an insurance database with sample data.
+All DBMS Lab Programs
+
